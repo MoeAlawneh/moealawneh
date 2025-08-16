@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**MoeAlawneh/moealawneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mohammed Alawneh and I am a CS graduate from the Univeristy of Miami.
 
-Here are some ideas to get you started:
+Targeting **Tech Sales**, **Backend/Full-stack Dev**, and **Logistics/Operations** roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I bring
+- Sales mindset**: KPIs, CRM hygiene, repeatable GTM habits, clear demos.  
+- Dev fundamentals**: REST APIs, auth, SQL modelling, testing, CI.  
+- Operations**: Data cleaning, reporting, and automation for fast decisions.
+
+## Tech
+`Java` `JavaScript` `React` `Vite` `Node/Express` `SQL` `Power BI` `GitHub Actions`
+
+## Let’s connect
+- Email: Moalawneh@outlook.com
+- [LinkedIn](https://www.linkedin.com/in/mohammed-alawneh-6b3aa624b/)
+
